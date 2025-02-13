@@ -1,6 +1,6 @@
 # Machine-Learning-project-hw
 
-# 📊 Beadandó – Hallgatók Fizetési Szokásai
+# 📊 Hallgatók Fizetési Szokásai
 
 ## 📌 Leírás
 Ez a projekt a hallgatók költési szokásait vizsgálja meg különböző demográfiai csoportok és tanulmányi háttér szerint. A vizsgált adatkészlet **1000 diák** fiktív költési adatait tartalmazza, beleértve a havi jövedelmüket, pénzügyi támogatásukat, különböző kiadási kategóriákat és preferált fizetési módjukat.
